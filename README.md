@@ -9,6 +9,3 @@ Responsive Landing Page for Shiawase Sushi Restaurant. This is a React based pro
 
 <img width="280px" src="src/assets/sushi-mobile-version.gif" alt="sushi restaurant mobile overview">
 
-## Link 🔗
-- [Sushi Restaurant](https://sushi-restaurant-olive.vercel.app/)
-
